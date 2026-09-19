@@ -138,3 +138,5 @@ These metrics can be used to understand how the CNN performs during training.
 ## 🏁 Conclusion
 
 This project demonstrates how a **Convolutional Neural Network** can be used for multi-class animal image classification. The model uses image preprocessing, augmentation, convolutional layers, pooling, and dense layers to learn visual patterns and classify images into 15 animal categories.
+
+![ml](https://github.com/rushikeshwalode06-cod/Multiclass-Animal-Classification/blob/main/Animal_image.png?raw=true)
