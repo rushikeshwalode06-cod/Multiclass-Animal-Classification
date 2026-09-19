@@ -62,6 +62,8 @@ The class names are defined in the trained-model prediction file.
 9. 💾 Save/load the trained model
 10. 🔍 Predict the animal class from a new image
 
+![ml](https://github.com/rushikeshwalode06-cod/Multiclass-Animal-Classification/blob/main/Animai1_image.png?raw=true)
+
 ## 🧠 CNN Model Architecture
 
 The project uses a custom CNN architecture consisting of:
